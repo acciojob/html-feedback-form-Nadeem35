@@ -1,18 +1,25 @@
-
-/* Your CSS Code here. */
-body{
-	border: 1px solid #000;
-	margin: 0 auto;
+body {
+	margin: 0;
 	padding: 20px;
-	border-radius: 5px;
-}
-input{
-	margin: 10px 0px 10px 0px;
-	width: 100%;
-	padding: 5px 5px;
+	font-family: Arial, sans-serif;
 }
 
-lable{
-	display-blcok:block;
-	margin:10px;
+form {
+	max-width: 400px;
+	margin: auto;
+	padding: 20px;
+	border: 1px solid #000;
+	border-radius: 5px;
+	background-color: #f9f9f9;
+}
+
+input {
+	margin: 10px 0;
+	width: 100%;
+	padding: 5px;
+}
+
+label {
+	display: block;
+	margin-top: 10px;
 }
