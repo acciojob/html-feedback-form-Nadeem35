@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+body{
+	border: 1px solid #000;
+	margin: 0 auto;
+	padding: 20px;
+	border-radius: 5px;
+}
+input{
+	margin: 10px 0px 10px 0px;
+	width: 100%;
+	padding: 5px 5px;
+}
+
+lable{
+	display-blcok:block;
+	margin:10px;
+}
